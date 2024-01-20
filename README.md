@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, django, flask, tailwind**
 
-- 📫 How to reach me **johan.veasnob@ug.edu.ec**
+- 📫 How to reach me **NO PUEDE**
 
 - ⚡ Fun fact **I'm constant in my projects**
 

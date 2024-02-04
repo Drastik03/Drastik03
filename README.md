@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drastik03&label=Profile%20views&color=0e75b6&style=flat" alt="drastik03" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drastik03" alt="drastik03" /></a> </p>
+<p align="left"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=drastik03&theme=darkhub" alt="drastik03" />
+    </a> 
+</p>
 
 - 🔭 I am currently working on upcoming projects. **document converter.**
 

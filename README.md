@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drastik03&label=Profile%20views&color=0e75b6&style=flat" alt="drastik03" /> </p>
 
+<h2 align="center">Contributions</h2>
+
+<img src="https://raw.githubusercontent.com/Drastik03/Drastik03/output/snake.svg" alt="Snake animation" />
+
 <p align="left"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=drastik03&theme=darkhub" alt="drastik03" />

@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 
 
-
 <img src="https://raw.githubusercontent.com/Drastik03/Drastik03/output/snake.svg" alt="Snake animation" />
 
 

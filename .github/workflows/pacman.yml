@@ -1,4 +1,4 @@
-name: Skyline Contributions
+name: Donkey Kong Style Contributions
 
 on:
   workflow_dispatch:
@@ -13,6 +13,13 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: Drastik03
+
           template: skyline
-          filename: skyline.svg
+          base: header, activity
+          config_timezone: America/Guayaquil
+
+          config_display: large
+          config_twemoji: yes
+
+          filename: donkeykong-skyline.svg
           output_action: commit

@@ -1,14 +1,15 @@
 name: Generate pacman animation
 
+permissions:
+  contents: write
+
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 */12 * * *"
-  workflow_dispatch:
 
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
 
     steps:

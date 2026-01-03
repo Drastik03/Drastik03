@@ -3,25 +3,40 @@
 ###
 
 <div align="center">
+  <!-- Lenguajes -->
+  <img src="https://skillicons.dev/icons?i=cs" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" />
+
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=dotnet" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" />
+  <img width="12" />
+
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=angular" height="60" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" />
+
+  <!-- Bases de datos -->
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" />
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=linux" height="60" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" />
 </div>
 
 ###

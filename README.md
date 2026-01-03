@@ -1,3 +1,10 @@
+<div align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&theme=cobalt"
+  />
+</div>
+
 <h1 align="center">Hey 👋 What's Up?</h1>
 
 ###
@@ -52,17 +59,29 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Drastik03&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-profile-trophy.vercel.app?username=Drastik03&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150" />
+  <img
+    src="https://streak-stats.demolab.com?user=Drastik03&theme=dracula&hide_border=false"
+    height="150"
+  />
+  <img
+    src="https://github-profile-trophy.vercel.app?username=Drastik03&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8"
+    height="150"
+  />
 </div>
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Drastik03/Drastik03/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Drastik03/Drastik03/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/Drastik03/Drastik03/output/pacman-contribution-graph.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Drastik03/Drastik03/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Drastik03/Drastik03/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/Drastik03/Drastik03/output/pacman-contribution-graph.svg"
+  />
 </picture>
